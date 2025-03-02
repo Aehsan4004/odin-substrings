@@ -1,0 +1,2 @@
+# odin-substrings
+substrings exercise
